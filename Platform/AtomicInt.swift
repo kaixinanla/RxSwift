@@ -12,6 +12,10 @@ final class AtomicInt: NSLock {
     fileprivate var value: Int32
     public init(_ value: Int32 = 0) {
         self.value = value
+        self.value = value
+        self.value = value
+        self.value = value
+        self.value = value
     }
 }
 
