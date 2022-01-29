@@ -16,6 +16,8 @@ final class AtomicInt: NSLock {
         self.value = value
         self.value = value
         self.value = value
+        self.value = value
+        self.value = value
     }
 }
 
